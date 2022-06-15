@@ -204,7 +204,7 @@ msgstr ""
 #: upstream/_versions/main/guides/security-openid-connect-client.adoc:96
 #, no-wrap
 msgid "Writing the application"
-msgstr ""
+msgstr "编写应用程序"
 
 #. type: Plain text
 #: upstream/_versions/main/guides/security-openid-connect-client.adoc:99
@@ -543,7 +543,7 @@ msgstr ""
 #: upstream/_versions/main/guides/security-openid-connect-client.adoc:295
 #, no-wrap
 msgid "Configuring the application"
-msgstr ""
+msgstr "配置该应用程序"
 
 #. type: Plain text
 #: upstream/_versions/main/guides/security-openid-connect-client.adoc:298
@@ -753,7 +753,7 @@ msgstr ""
 #. type: Plain text
 #: upstream/_versions/main/guides/security-openid-connect-client.adoc:387
 msgid "Then run it:"
-msgstr ""
+msgstr "然后运行："
 
 #. type: delimited block -
 #: upstream/_versions/main/guides/security-openid-connect-client.adoc:391

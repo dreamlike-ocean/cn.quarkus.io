@@ -102,7 +102,7 @@ msgstr ""
 #: upstream/_versions/main/guides/config.adoc:46
 #, no-wrap
 msgid "Create the configuration"
-msgstr ""
+msgstr "创建配置"
 
 #. type: Plain text
 #: upstream/_versions/main/guides/config.adoc:50
@@ -328,7 +328,7 @@ msgstr "打包并运行该应用程序"
 #. type: Plain text
 #: upstream/_versions/main/guides/config.adoc:166
 msgid "Run the application with:"
-msgstr ""
+msgstr "使用以下命令运行该应用程序:"
 
 #. type: Plain text
 #: upstream/_versions/main/guides/config.adoc:170
@@ -495,7 +495,7 @@ msgstr ""
 #. type: Plain text
 #: upstream/_versions/main/guides/config.adoc:240
 msgid "Logging"
-msgstr ""
+msgstr "日志"
 
 #. type: Plain text
 #: upstream/_versions/main/guides/config.adoc:241

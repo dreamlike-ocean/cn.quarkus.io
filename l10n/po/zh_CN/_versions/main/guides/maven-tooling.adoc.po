@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-05-12 15:59+0000\n"
+"POT-Creation-Date: 2022-06-11 02:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -338,7 +338,7 @@ msgstr ""
 #. type: Plain text
 #: upstream/_versions/main/guides/maven-tooling.adoc:145
 msgid "Hit `CTRL+C` to stop the application."
-msgstr ""
+msgstr "使用 `CTRL+C` 来停止应用程序。"
 
 #. type: delimited block =
 #: upstream/_versions/main/guides/maven-tooling.adoc:149
@@ -754,7 +754,7 @@ msgstr ""
 #: upstream/_versions/main/guides/maven-tooling.adoc:372
 #, no-wrap
 msgid "Building a native executable"
-msgstr ""
+msgstr "构建一个本地可执行文件"
 
 #. type: Plain text
 #: upstream/_versions/main/guides/maven-tooling.adoc:375
@@ -1538,7 +1538,7 @@ msgstr ""
 #. type: Table
 #: upstream/_versions/main/guides/maven-tooling.adoc:899
 #, no-wrap
-msgid "`~/m2/settings.xml`"
+msgid "`~/.m2/settings.xml`"
 msgstr ""
 
 #. type: Table
@@ -1556,7 +1556,7 @@ msgstr ""
 #. type: Table
 #: upstream/_versions/main/guides/maven-tooling.adoc:903
 #, no-wrap
-msgid "`~/m2/repository`"
+msgid "`~/.m2/repository`"
 msgstr ""
 
 #. type: Table
@@ -1620,7 +1620,7 @@ msgid ""
 "        <version>${surefire-plugin.version}</version>\n"
 "        <configuration>\n"
 "          <systemPropertyVariables>\n"
-"            <maven.home>${maven.hom}</maven.home> <1>\n"
+"            <maven.home>${maven.home}</maven.home> <1>\n"
 "            <maven.repo.local>${settings.localRepository}</maven.repo.local> <2>\n"
 "            <maven.settings>${session.request.userSettingsFile.path}</maven.settings> <3>\n"
 "            <maven.top-level-basedir>${session.topLevelProject.basedir.absolutePath}</maven.top-level-basedir> <4>\n"

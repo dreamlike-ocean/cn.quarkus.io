@@ -205,7 +205,7 @@ msgstr ""
 #. type: Plain text
 #: upstream/_versions/1.11/guides/security-keycloak-authorization.adoc:92
 msgid "This will add the following to your `pom.xml`:"
-msgstr ""
+msgstr "这将在你的 `pom.xml` 中添加以下内容："
 
 #. type: delimited block -
 #: upstream/_versions/1.11/guides/security-keycloak-authorization.adoc:103
@@ -366,7 +366,7 @@ msgstr ""
 #: upstream/_versions/1.11/guides/security-keycloak-authorization.adoc:176
 #, no-wrap
 msgid "Configuring the application"
-msgstr ""
+msgstr "配置该应用程序"
 
 #. type: Plain text
 #: upstream/_versions/1.11/guides/security-keycloak-authorization.adoc:179
@@ -471,7 +471,7 @@ msgstr ""
 #. type: Plain text
 #: upstream/_versions/1.11/guides/security-keycloak-authorization.adoc:229
 msgid "Then run it:"
-msgstr ""
+msgstr "然后运行："
 
 #. type: delimited block -
 #: upstream/_versions/1.11/guides/security-keycloak-authorization.adoc:233

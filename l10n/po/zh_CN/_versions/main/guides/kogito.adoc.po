@@ -228,7 +228,7 @@ msgstr ""
 #: upstream/_versions/main/guides/kogito.adoc:114
 #, no-wrap
 msgid "Writing the application"
-msgstr ""
+msgstr "编写应用程序"
 
 #. type: Plain text
 #: upstream/_versions/main/guides/kogito.adoc:117
@@ -614,7 +614,7 @@ msgstr ""
 #. type: Plain text
 #: upstream/_versions/main/guides/kogito.adoc:274
 msgid "Then run it:"
-msgstr ""
+msgstr "然后运行："
 
 #. type: delimited block -
 #: upstream/_versions/main/guides/kogito.adoc:278
